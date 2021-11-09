@@ -12,5 +12,5 @@
 
 ## Step 3
 
-- You can now start the project with python main.py to start the game
+- You can now start the project with `python main.py` to start the game
 - Enjoy the game
